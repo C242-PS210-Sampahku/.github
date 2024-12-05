@@ -7,7 +7,7 @@
 **Team Member :**
 | Name                            | Bangkit-ID    | Path               | University                                           |
 | -------------                   | ------------- | -------------      | -------------                                        |
-| RAisha Alvita Marela            | M312B4KX0258  | Machine Learning   | Universitas Sebelas Maret                            |
+| Aisha Alvita Marela             | M312B4KX0258  | Machine Learning   | Universitas Sebelas Maret                            |
 | Arkan Abdila Barts              | M288B4KY0659  | Machine Learning   | Universitas Pamulang                                 |
 | Solahudin                       | M288B4KY4191  | Machine Learning   | Universitas Pamulang                                 |
 | Muhamad Reizal Putra Hidayat    | C288B4KY2658  | Cloud Computing    | Universitas Pamulang                                 |
@@ -24,8 +24,8 @@ identify and sort their household waste correctly.
 
 ## Project Scope
 **Mobile App Development :**
-- Waste Scan, Spice Blog Education
-- User Account Management, User Favorite Recipe
+- Waste Scan, Waste Blog Education, Waste Predict History
+- User Account Management, Daily Quest
 
 **Cloud Computing Infrastructure**
 - Scalable and reliable environment
@@ -36,6 +36,6 @@ identify and sort their household waste correctly.
 
 **Tools/IDE/Library:**
 - **Figma**: UI/UX design collaboration
-- **Flutter**: Official IDE for Android development
+- **Flutter**: UI sodtware development kit from Google
 - **GitHub**: Version control and collaborative development
-
+- **Google Cloud Platform**: Cloud storage, Cloud SQL, compute engine, cloud run
