@@ -21,6 +21,13 @@ This leads to improper waste management, contributing to environmental pollution
 Our team aims to address this issue by developing a mobile application that helps users, especially homemakers,
 identify and sort their household waste correctly.
 
+## Features
++ Authentication System
++ Garbage Disposal Scheduling 
++ Predict Image
++ Predict Scan History
++ Education Blog's
+
 ## Project Scope
 **Mobile App Development :**
 - Waste Scan, Waste Blog Education, Waste Predict History
