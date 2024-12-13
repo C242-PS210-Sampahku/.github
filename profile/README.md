@@ -30,10 +30,15 @@ identify and sort their household waste correctly.
 
 **Cloud Computing Infrastructure**
 - Scalable and reliable environment
-- Server-side components for account management, data storage
+- Server-side components for user management, data storage
+- Serving machine learning model
 
 **Machine Learning Integration**
-- 
+- Tensorflow Machine Learning Model
+- Integrate a pre-trained TensorFlow model into the application to perform predictions or classifications.
+- Ensure the TensorFlow model is optimized for small size and fast inference.
+- Implement model version control and easy updates for future improvements.
+
 
 **Tools/IDE/Library:**
 - **Figma**: UI/UX design collaboration
