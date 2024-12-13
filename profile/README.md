@@ -57,7 +57,7 @@ identify and sort their household waste correctly.
 - **[Repositori Cloud Computing-Express/main API](https://github.com/C242-PS210-Sampahku/CC-main-api.git)**: Backend for this project. This repository use express framework to serve API and using Google Platform for database(Cloud SQL), storage(Cloud Storage)
 - **[Repositori Cloud Computing-Flask/model-serving](https://github.com/C242-PS210-Sampahku/CC-model-serving.git)**: Model serving for serve our Machine Learning Model. Use Flask framework to serve model and build API to Predict using Machine Learning model
 
-#**Requirements and Tools
+## Requirements and Tools
 + Flutter ![Flutter](https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 + Android Studio ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
