@@ -39,3 +39,16 @@ identify and sort their household waste correctly.
 - **Flutter**: UI sodtware development kit from Google
 - **GitHub**: Version control and collaborative development
 - **Google Cloud Platform**: Cloud storage, Cloud SQL, compute engine, cloud run
+- **Tensforflow**: Build Machine learning
+- **ExpressJS**: Build REST API
+- **Flask PY**: serve model and API for predict
+
+# **Repository**
+## Machine Learning
+- **[Repositori Machine Learning](https://github.com/C242-PS210-Sampahku/ML.git)**: Machine Learning repository for this project. Use Tensorflow to build Machine Learning model
+
+## Mobile Development
+- **[Repositori Mobile Development](https://github.com/C242-PS210-Sampahku/MD.git)**: Mobile Development repository for this project. Use Flutter to build Mobile APlication
+## Cloud Computing
+- **[Repositori Cloud Computing-Express/main API](https://github.com/C242-PS210-Sampahku/CC-main-api.git)**: Backend for this project. This repository use express framework to serve API and using Google Platform for database(Cloud SQL), storage(Cloud Storage)
+- **[Repositori Cloud Computing-Flask/model-serving](https://github.com/C242-PS210-Sampahku/CC-model-serving.git)**: Model serving for serve our Machine Learning Model. Use Flask framework to serve model and build API to Predict using Machine Learning model
