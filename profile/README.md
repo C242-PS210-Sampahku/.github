@@ -20,7 +20,8 @@ Many households struggle with proper waste disposal due to difficulties in ident
 This leads to improper waste management, contributing to environmental pollution and inefficiencies in recycling processes.
 Our team aims to address this issue by developing a mobile application that helps users, especially homemakers,
 identify and sort their household waste correctly.
-
+---
+[API-docs](https://documenter.getpostman.com/view/27019061/2sAYBbdUU9)
 
 ## Project Scope
 **Mobile App Development :**
