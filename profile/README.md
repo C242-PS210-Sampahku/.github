@@ -62,7 +62,7 @@ identify and sort their household waste correctly.
 + Android Studio ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ## Reference
-[UI/UX Design](https://www.figma.com/design/pEoi0AVdwTb1wpwHXqMgTM/Desain-UI%2FUX?node-id=264-4&t=uCbnyP0prtZU5JoG-1)
-[API-docs](https://documenter.getpostman.com/view/27019061/2sAYBbdUU9)
++ [UI/UX Design](https://www.figma.com/design/pEoi0AVdwTb1wpwHXqMgTM/Desain-UI%2FUX?node-id=264-4&t=uCbnyP0prtZU5JoG-1)
++ [API-docs](https://documenter.getpostman.com/view/27019061/2sAYBbdUU9)
 
 
