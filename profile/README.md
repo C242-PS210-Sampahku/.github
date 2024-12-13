@@ -20,8 +20,6 @@ Many households struggle with proper waste disposal due to difficulties in ident
 This leads to improper waste management, contributing to environmental pollution and inefficiencies in recycling processes.
 Our team aims to address this issue by developing a mobile application that helps users, especially homemakers,
 identify and sort their household waste correctly.
----
-[API-docs](https://documenter.getpostman.com/view/27019061/2sAYBbdUU9)
 
 ## Project Scope
 **Mobile App Development :**
@@ -58,3 +56,13 @@ identify and sort their household waste correctly.
 ## Cloud Computing
 - **[Repositori Cloud Computing-Express/main API](https://github.com/C242-PS210-Sampahku/CC-main-api.git)**: Backend for this project. This repository use express framework to serve API and using Google Platform for database(Cloud SQL), storage(Cloud Storage)
 - **[Repositori Cloud Computing-Flask/model-serving](https://github.com/C242-PS210-Sampahku/CC-model-serving.git)**: Model serving for serve our Machine Learning Model. Use Flask framework to serve model and build API to Predict using Machine Learning model
+
+#**Requirements and Tools
++ Flutter ![Flutter](https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
++ Android Studio ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
+## Reference
+[UI/UX Design](https://www.figma.com/design/pEoi0AVdwTb1wpwHXqMgTM/Desain-UI%2FUX?node-id=264-4&t=uCbnyP0prtZU5JoG-1)
+[API-docs](https://documenter.getpostman.com/view/27019061/2sAYBbdUU9)
+
+
